@@ -1,3 +1,3 @@
 #!/bin/bash
-print('"Programming is like building a multilingual puzzle'\n) $PYFILE
+print('"Programming is like building a multilingual puzzle')
 
